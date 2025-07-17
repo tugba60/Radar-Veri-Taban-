@@ -11,22 +11,22 @@ Tüm bu bilgiler tarih ve zaman bilgisi eklenerek raporlanır.
 
 ## TABLO OLUŞTURMA
 Aşağıdaki tablolar oluşturulmuştur:
-•	Hava Araçları 
-•	Radarlar
-•	Tespit Edilen Nesneler
-•	Takip Edilen Nesneler
-•	Hedef Tanıma
-•	Müdahale Bilgisi
-•	Radar Tipleri
-•	Radar Türleri
-•	Frekans Bantları
-•	Sinyal Türleri
-•	IFF Kodları
-•	Aksiyon Türleri
-•	Hava Aracı Türleri
-•	Görev Modları
-•	Görev Türleri
-•	Üretici Firmalar
+*	Hava Araçları
+*	Radarlar
+*	Tespit Edilen Nesneler
+*	Takip Edilen Nesneler
+*	Hedef Tanıma
+*	Müdahale Bilgisi
+*	Radar Tipleri
+*	Radar Türleri
+*	Frekans Bantları
+*	Sinyal Türleri
+*	IFF Kodları
+*	Aksiyon Türleri
+*	Hava Aracı Türleri
+*	Görev Modları
+*	Görev Türleri
+*	Üretici Firmalar
 
 ## Tablolar
 ### 1.UreticiFirma Tablosu
